@@ -1,0 +1,1 @@
+### This repository contains tasks that create pascal triangle as tasks that required in interviews.
